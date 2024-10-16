@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Cristian 👋 💻
 
-<!--
-**Spek7ro/Spek7ro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Software engineer passionate about technology and cybersecurity. Focused on developing innovative solutions and exploring the intersection of programming and security
+- 💬 Currently, I'm working with the following technologies:
+  - Go 💻
+  - Machine Learning 🧑‍🎓
+  - Python 🐍
+  - Java ☕
+  - Data science 🧑‍💻
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=java,python,go,docker)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Spek7ro&layout=compact&langs_count=10&theme=dracula&hide=jupyter%20notebook)](https://github.com/Spek7ro)
+
+[![Cristian github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Spek7ro&count_private=true&show_icons=true&theme=dracula)](https://github.com/Spek7ro)
