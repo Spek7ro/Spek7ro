@@ -12,4 +12,5 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Spek7ro&layout=compact&langs_count=10&theme=dracula&hide=jupyter%20notebook)](https://github.com/Spek7ro)
 
-[![TryHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1869022)]
+![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1869022)
+
