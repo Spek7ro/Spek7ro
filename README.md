@@ -1,5 +1,11 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+<!-- GIF HEADER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+
+<!-- VISTAS DEL PERFIL -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Spek7ro&label=Profile%20views&color=0e75b6&style=flat" alt="Cristian" /> </p>
+
 # Hi, I'm Cristian 👋 💻
 
 <div align="center">
