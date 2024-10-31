@@ -26,6 +26,9 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Spek7ro&layout=compact&langs_count=10&theme=dracula&hide=jupyter%20notebook)](https://github.com/Spek7ro)
 
+[![](https://github-readme-stats.vercel.app/api?username=Spek7ro&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Spek7ro)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Spek7ro&theme=material-palenight)](https://github.com/Spek7ro)
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
