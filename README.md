@@ -22,15 +22,33 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,go,docker,linux,git,javascript,nodejs,react)](https://skillicons.dev)
 
-<h2>Github stats:</h2> 
+<h2>📊 Github stats:</h2> 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Spek7ro&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="46%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spek7ro&theme=radical" alt="GitHub Streak" width="49%" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spek7ro&layout=compact&theme=radical" alt="Top Lenguajes" width="45%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spek7ro&layout=compact&theme=radical" alt="Top Lenguajes" width="45%" />
+</p>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Spek7ro&layout=compact&langs_count=10&theme=dracula&hide=jupyter%20notebook)](https://github.com/Spek7ro)
+<h2>📫 Contact Me</h2>
+
+<p align="center">
+  <a href="20201032@uaz.edu.mx">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/cristian-alvarado-712065209/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<div align="center">
+  <p>📧 <strong>Email:</strong> 20201032@uaz.edu.mx</p>
+  <p><strong>"Develop a talent and show the world what you're capable of."</p>
+</div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-
