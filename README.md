@@ -20,7 +20,7 @@
 
 ## My Skills Include
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,go,docker,linux,git,nodejs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,go,docker,linux,git,javascript,nodejs,react)](https://skillicons.dev)
 
 <h2>Github stats:</h2> 
 
