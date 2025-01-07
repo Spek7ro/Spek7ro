@@ -12,7 +12,7 @@
 
 - 💻 Software engineer passionate about technology and cybersecurity. Focused on developing innovative solutions and exploring the intersection of programming and security
 - 💬 Currently, I'm working with the following technologies:
-  - Go 💻
+  - Spring Boot 💻
   - Machine Learning 🧑‍🎓
   - Python 🐍
   - Java ☕
