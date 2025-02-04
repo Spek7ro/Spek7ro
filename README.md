@@ -31,6 +31,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spek7ro&layout=compact&theme=radical" alt="Top Lenguajes" width="45%" />
 </p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Spek7ro&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 📫 Contact Me
 
@@ -47,8 +49,5 @@
   <p>📧 <strong>Email:</strong> 20201032@uaz.edu.mx</p>
   <p><strong>"Develop a talent and show the world what you're capable of." </strong></p>
 </div>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Spek7ro&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
