@@ -48,4 +48,7 @@
   <p><strong>"Develop a talent and show the world what you're capable of." </strong></p>
 </div>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Spek7ro&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
