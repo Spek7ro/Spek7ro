@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 My Skills Include
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,go,docker,linux,git,javascript,nodejs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,go,docker,linux,git,javascript,nodejs,react,mysql,SpringBoot,angular)](https://skillicons.dev)
 
 ## 📊 Github stats 
 
