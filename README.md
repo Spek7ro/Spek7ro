@@ -11,6 +11,7 @@
 <br>
 
 - 💻 Software engineer passionate about Machine Learning, Data Science, and Artificial Intelligence. Dedicated to developing innovative solutions that leverage data-driven insights. Strong interest in data        engineering, analytics, and building intelligent systems that solve real-world problems.
+  
 - 💬 Currently, I'm working with the following technologies:
   - Python 🐍
   - R 🧑‍💻
@@ -21,7 +22,7 @@
 
 ## 🧑‍💻 My Skills Include
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,R,go,javascript,docker,linux,git,hibernate,spring,react,angular,django,mysql,oracle,SpringBoot,aws,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,r,go,javascript,docker,linux,git,hibernate,spring,react,angular,django,mysql,oracle,springBoot,aws,gcp)](https://skillicons.dev)
 
 ## 📊 Github stats 
 
