@@ -22,7 +22,7 @@
 
 ## 🧑‍💻 My Skills Include
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,r,go,javascript,docker,linux,git,hibernate,spring,react,angular,django,mysql,oracle,springBoot,aws,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,r,go,javascript,docker,linux,git,hibernate,spring,react,angular,django,mysql,oracle,aws,gcp)](https://skillicons.dev)
 
 ## 📊 Github stats 
 
